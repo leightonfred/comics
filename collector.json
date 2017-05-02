@@ -1,9 +1,9 @@
 {
 	"book": [
 		{
-			"title": "Title",
-			"number": "Number",
-			"month": "Month",
+			"title": "Spider-Man",
+			"number": "119",
+			"month": "June",
 			"year": "Year",
 			"publisher": "Publisher",
 			"condition": 50,
