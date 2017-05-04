@@ -11,6 +11,9 @@
 			"condition": 50,
 			"value": "Value",
 			"picture": "Image"
+		},
+		{
+			"condition": 50
 		}
 	]
 }
