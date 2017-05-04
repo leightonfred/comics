@@ -1,12 +1,14 @@
 {
 	"book": [
 		{
-			"title": "Spider-Man",
+			"title": [
+				"Spider-Man"
+			],
 			"number": "119",
 			"month": "ljk;jlk",
 			"year": "ljlj;j",
 			"publisher": "alkjsfdlkjfl",
-			"condition": 34,
+			"condition": 78,
 			"value": "550",
 			"picture": "01"
 		}
