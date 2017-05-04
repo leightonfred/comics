@@ -2,15 +2,15 @@
 	"book": [
 		{
 			"title": [
-				"Spider-Man"
+				"Title"
 			],
-			"number": "119",
-			"month": "ljk;jlk",
-			"year": "ljlj;j",
-			"publisher": "alkjsfdlkjfl",
-			"condition": 78,
-			"value": "550",
-			"picture": "01"
+			"number": "Number",
+			"month": "Month",
+			"year": "Year",
+			"publisher": "Publisher",
+			"condition": 50,
+			"value": "Value",
+			"picture": "Image"
 		}
 	]
 }
