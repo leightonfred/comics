@@ -8,12 +8,17 @@
 			"month": "Month",
 			"year": "Year",
 			"publisher": "Publisher",
-			"condition": 50,
+			"condition": 73,
 			"value": "Value",
-			"picture": "Image"
+			"picture": "07"
 		},
 		{
-			"condition": 50
+			"condition": 50,
+			"picture": "02\n"
+		},
+		{
+			"condition": 86,
+			"picture": "01"
 		}
 	]
 }
